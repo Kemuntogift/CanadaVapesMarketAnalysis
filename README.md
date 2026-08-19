@@ -1,4 +1,4 @@
-# CanadaVapesMarketAnalysis
+# Canada Vapes Market Analysis
 Data analytics project analyzing provincial purchase behavior and identifying potential growth opportunities for Canada Vapes.
 
 ## About the Project
@@ -9,15 +9,22 @@ The analysis integrated internal data with research on pricing, vaping taxes, ad
 Data Lead: Data quality assessment, data cleaning and preprocessing, metadata and data dictionary documentation, exploratory data analysis (EDA), analysis of buyer behaviour and purchasing trends across provinces, and supporting dashboard development. Additionally, I contributed to market and regulatory research and assisted the team in developing data-driven insights and recommendations.
 
 ## Key Skills & Tools
-* Data Cleaning & Preprocessing — Python, Pandas
-* Data Analysis & EDA— Python, Pandas
-* Data Visualization — Python, Power BI
-* Dashboarding & Reporting — Power BI
-* Market & Regulatory Research — Secondary research and industry sources
-* Business Analysis — Buyer behaviour, purchasing trends, and market opportunities
-* Data-Driven Recommendations — Translating analysis into actionable business insights
+* Data Cleaning & Preprocessing – Python, Pandas ([Notebook](notebooks/))
+* Data Analysis & EDA – Python, Pandas ([Notebooks](notebooks/))
+* Data Visualization – Python, Power BI ([Notebooks](notebooks/), [Dashboards](dashboards/))
+* Dashboarding & Reporting – Power BI ([Dashboards](dashboards/))
+* Business Analysis – Buyer behaviour, purchasing trends, and market opportunities ([Notebooks](notebooks/))
+* Data-Driven Recommendations – Translating analysis into actionable business insights ([Docs](docs/))
   
 ## Project Highlights
 - AOV: Identified an AOV of approximately $102.59, below the $120 target.
 - Customer Retention: Found that 57.1% of customers were repeat customers.
 - Regional Opportunities: Identified Ontario and Quebec as priority regions for scaling.
+
+## How to Navigate the Repo
+- **`notebooks/`** — Python notebooks for data cleaning, EDA, and analysis.
+- **`dashboards/`** — Dashboard files and visualizations.
+- **`docs/`** — Project documentation and supporting materials.
+  
+## Privacy & Client Confidentiality
+This project was completed in collaboration with Canada Vapes. The original project datasets are not included in this public repository. The notebooks and project artifacts are provided to demonstrate the analytical approach, skills, and outcomes without exposing confidential client data.
